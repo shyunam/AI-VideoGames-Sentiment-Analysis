@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains the code and data associated with the research paper titled **"A Comparative Study of AI in Video Games via Sentiment Analysis and Topic Modeling of User Reviews"** by Seunghyun Nam. The project is designed to analyze user reviews for video games that utilize AI, specifically focusing on the titles **Alien: Isolation**, **F.E.A.R.**, **Halo Infinite**, **Hitman**, **Left 4 Dead 2**, **Shadow of Mordor**, and **The Last of Us**.
+This project is designed to analyze user reviews for video games that utilize AI, specifically focusing on the titles **Alien: Isolation**, **F.E.A.R.**, **Halo Infinite**, **Hitman**, **Left 4 Dead 2**, **Shadow of Mordor**, and **The Last of Us**.
 
 ### Features
 
@@ -13,7 +13,7 @@ This repository contains the code and data associated with the research paper ti
 
 ### Customization
 
-The provided scripts can be easily adapted to analyze different video games available on Metacritic or Steam, and adjust parameters to fit their specific analysis needs. 
+The provided scripts can be easily adapted to analyze different video games available on Metacritic or Steam, and adjust parameters to fit specific analysis needs. 
 
 ## Installation
 
@@ -132,9 +132,3 @@ Due to recent updates in `chromedriver`, there have been issues with installing 
 - Ensure that you have the latest version of `webdriver_manager`.
 - Remove the `.wdm` folder and then reinstall `webdriver-manager`.
 - Replace the file `THIRD_PARTY_NOTICES.chromedriver` with `chromedriver`.
-
-**Code Update:**
-The code may need updates to align with the latest version of `chromedriver`. 
-
-## Contact
-Seunghyun Nam - shyunam@gmail.com
