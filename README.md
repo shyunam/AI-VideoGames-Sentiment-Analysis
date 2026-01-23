@@ -1,4 +1,4 @@
-# AI-VideoGames-Sentiment-Analysis
+# AI-VideoGames-Comparative-Analysis
 
 ## Overview
 
@@ -14,10 +14,6 @@ This project is designed to analyze user reviews for video games that utilize AI
 ### Customization
 
 The provided scripts can be easily adapted to analyze different video games available on Metacritic or Steam, and adjust parameters to fit specific analysis needs. 
-
-## Installation
-
-Instructions on how to set up and install the project.
 
 ## Running the Scripts
 
